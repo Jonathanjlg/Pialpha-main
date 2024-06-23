@@ -29,12 +29,14 @@ from app.models import tecnico_model
 
 
 #FIXME:view
-from .views import nivel_view
+from .views import cliente_view
 from .views import equipamento_view
+from .views import marca_view
+from .views import nivel_view
 from .views import orcamento_view
 from .views import tecnico_view
-from .views import marca_view
-from .views import cliente_view
+
+
 
 
  
